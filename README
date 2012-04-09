@@ -1,0 +1,8 @@
+mod_feelings
+------------
+
+An attempt to copy http://feelings.fix.no/ for jabber. As a module for eJabberd.
+
+This can not be done client-side, as attempted in https://github.com/ways/pidgin-feelings
+
+Will start with example from https://gist.github.com/2269248
